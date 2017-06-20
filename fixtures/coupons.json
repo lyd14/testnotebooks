@@ -1,0 +1,14 @@
+{
+  "coupons": [
+    {
+      "id": 1,
+      "amount": 20.00,
+      "type": "percentage"
+    },
+    {
+      "id": 2,
+      "amount": 20.00,
+      "type": "fixed"
+    }
+  ]
+}
